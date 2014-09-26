@@ -9,8 +9,7 @@ nodejs:
 node_modules:
   npm.installed:
     - names:
-      - yo
-      - generator-ember
-      - generator-angular
-      - generator-express
-      - generator-webapp
+      - bower
+      - grunt
+      - grunt-cli
+      - gulp
